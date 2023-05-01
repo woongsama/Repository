@@ -8,7 +8,7 @@
 </head>
 <body>
 
-jsppro
+index.jsp 파일 추가
 
 
 </body>
