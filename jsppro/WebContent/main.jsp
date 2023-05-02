@@ -8,8 +8,8 @@
 </head>
 <body>
 
-index.jsp 파일 추가
 
+main.jsp
 
 </body>
 </html>
